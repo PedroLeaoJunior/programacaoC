@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main () {
   int idade;
   int quantidade;
   float altura;
