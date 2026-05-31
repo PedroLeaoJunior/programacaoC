@@ -12,6 +12,8 @@ int main () {
   char nome[20];//a variável vai aceitar um array de 19 caracteres sem espaços
   int teste2; //não deve iniciar com números
   
+  idade = 25;
+
   
 
 }
