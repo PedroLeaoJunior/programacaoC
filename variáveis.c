@@ -7,5 +7,6 @@ int main(){
   char letra;
   char nome[];
   
+  
 
 }
